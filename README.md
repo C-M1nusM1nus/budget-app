@@ -70,5 +70,5 @@ Creates a vertical spending chart showing how much each category contributed to 
 Only withdrawals are counted as spending.
 
 # Requirements
-Python 3.x
-No external libraries are required.
+* Python 3.x
+* No external libraries are required.
